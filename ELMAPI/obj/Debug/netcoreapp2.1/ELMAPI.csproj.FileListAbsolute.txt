@@ -1,9 +1,0 @@
-D:\MyNETProject\ELM\ELMAPI\bin\Debug\netcoreapp2.1\ELMAPI.deps.json
-D:\MyNETProject\ELM\ELMAPI\bin\Debug\netcoreapp2.1\ELMAPI.dll
-D:\MyNETProject\ELM\ELMAPI\bin\Debug\netcoreapp2.1\ELMAPI.pdb
-D:\MyNETProject\ELM\ELMAPI\obj\Debug\netcoreapp2.1\ELMAPI.csproj.CoreCompileInputs.cache
-D:\MyNETProject\ELM\ELMAPI\obj\Debug\netcoreapp2.1\ELMAPI.AssemblyInfoInputs.cache
-D:\MyNETProject\ELM\ELMAPI\obj\Debug\netcoreapp2.1\ELMAPI.AssemblyInfo.cs
-D:\MyNETProject\ELM\ELMAPI\obj\Debug\netcoreapp2.1\ELMAPI.dll
-D:\MyNETProject\ELM\ELMAPI\obj\Debug\netcoreapp2.1\ELMAPI.pdb
-D:\MyNETProject\ELM\ELMAPI\obj\Debug\netcoreapp2.1\ELMAPI.csprojAssemblyReference.cache

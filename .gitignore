@@ -1,1 +1,5 @@
 /.vs
+/ELMAPI/bin
+/ELMAPI/obj
+/Sample/bin
+/Sample/obj
