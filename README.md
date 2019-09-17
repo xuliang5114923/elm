@@ -12,5 +12,5 @@
 ![image](https://github.com/xuliang5114923/elm/blob/master/2019-09-17_162031.jpg)
 >
 ## 授权
->进入【应用授权】获得商家的授权后，根据授权的code，获取token
+>进入【应用授权】获得商家的授权后，根据授权的code，获取token  
 >进入【查看应用】获得app_key 和 secret
