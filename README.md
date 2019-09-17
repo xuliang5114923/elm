@@ -1,8 +1,8 @@
 # 饿了么 API SDK C# 版本
->此SDK适用于.NET Core 2.1
+>此SDK适用于.NET Core 2.1  
 >配置：
->>Config.cs 中 app_key,secret
->>Token.cs 中 token
+>>修改 Config.cs 中 app_key,secret  
+>>修改 Token.cs 中 token
 >
 ## 饿了么商家开放平台注册
 >注册地址：https://open.shop.ele.me/openapi/register ，按照要求注册即可
